@@ -1,0 +1,5 @@
+DB_NAME="dcusegtch56nij"
+DB_USER="gocpraotlloqbv"
+DB_PASSWORD="9fa34ff20cbae7d21fa9f40854289dee17e7eea81349e82a6a5f8169bc9a0136"
+DB_HOST="ec2-54-158-232-223.compute-1.amazonaws.com"
+DB_PORT="5432"
